@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8b3a2d83eadc2e848a554506a71acc1c
+timeCreated: 1626474533
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - HardBlock: {fileID: 147778, guid: d4f72e161259cb24290deacf349625aa, type: 2}
+  - SoftBlock: {fileID: 142436, guid: bf480cd629df602408757c66b900339c, type: 2}
+  - FloorA: {fileID: 155886, guid: 677d033c398c6f44680ff8d4d4f7031f, type: 2}
+  - FloorB: {fileID: 136866, guid: e5a75a9a94d3fbf4cad8214a2d63e9bf, type: 2}
+  - Player: {fileID: 132678, guid: cb11cde5be7ad274788315463c42f7a9, type: 2}
+  - EnemyA: {fileID: 148000, guid: 4ea9363ed21a2dc4a84d5eb8268a3e20, type: 2}
+  - FireUp: {fileID: 100054, guid: d254704d1b60d7d429e1dfcbf7021d59, type: 2}
+  - SpeedUp: {fileID: 110774, guid: b693a5567a03f69418fe9d4ed447cbe5, type: 2}
+  - BombUp: {fileID: 136702, guid: 08eac8cd658f2ca498fddf18c5376eb2, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
